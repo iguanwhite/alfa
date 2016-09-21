@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/fundo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/abcdario" />
+
+    <ImageView
+        android:id="@+id/btnA"
+        android:layout_width="143dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnB"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="154dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnC"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="296dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnD"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="437dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnE"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="580dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnF"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="723dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnG"
+        android:layout_width="143dp"
+          android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="865dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:id="@+id/btnH"
+        android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnI"
+        android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="178dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnJ"
+         android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="347dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnK"
+        android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="511dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnL"
+         android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="677dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnM"
+     android:layout_width="165dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="842dp"
+        android:layout_marginTop="140dp" />
+
+    <ImageView
+        android:id="@+id/btnN"
+        android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="272dp" />
+
+    <ImageView
+        android:id="@+id/btnO"
+          android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="154dp"
+        android:layout_marginTop="272dp" />
+    
+       <ImageView
+        android:id="@+id/btnP"
+           android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="297dp"
+        android:layout_marginTop="272dp" />
+
+    <ImageView
+        android:id="@+id/btnQ"
+           android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="440dp"
+        android:layout_marginTop="272dp" />
+    
+    
+    
+
+    <ImageView
+        android:id="@+id/btnR"
+          android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="582dp"
+        android:layout_marginTop="272dp" />
+
+    <ImageView
+        android:id="@+id/btnS"
+           android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="724dp"
+        android:layout_marginTop="272dp" />
+
+    <ImageView
+        android:id="@+id/btnT"
+         android:layout_width="142dp"
+        android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="867dp"
+        android:layout_marginTop="272dp" />
+
+    <ImageView
+        android:id="@+id/btnU"
+        android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="406dp" />
+
+    <ImageView
+        android:id="@+id/btnV"
+     android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="177dp"
+        android:layout_marginTop="406dp" />
+
+    <ImageView
+        android:id="@+id/btnW"
+        android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="344dp"
+        android:layout_marginTop="406dp" />
+
+    <ImageView
+        android:id="@+id/btnX"
+       android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="512dp"
+        android:layout_marginTop="406dp" />
+
+    <ImageView
+        android:id="@+id/btnY"
+    android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="676dp"
+        android:layout_marginTop="406dp" />
+
+    <ImageView
+        android:id="@+id/btnZ"
+        android:layout_width="165dp"
+              android:layout_height="137dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="844dp"
+        android:layout_marginTop="406dp" />
+
+
+
+</RelativeLayout>
